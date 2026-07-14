@@ -210,9 +210,10 @@ Source/BaoDanRider/
 └─ Tests/         UE 自动化测试
 
 Docs/
-├─ GameDesign.md       系统策划案
-├─ ProjectStatus.md    当前进度与验证记录
-└─ VisualBenchmark.md 美术样板与资产审计结论
+├─ 《爆单骑手》系统策划案.docx  完整系统策划与制作基线
+├─ GameDesign.md              简版玩法方向
+├─ ProjectStatus.md           当前进度与验证记录
+└─ VisualBenchmark.md         美术样板与资产审计结论
 ```
 
 ## 本地运行
@@ -243,7 +244,8 @@ $Project = (Resolve-Path '.\BaoDanRider.uproject').Path
 
 ## 文档
 
-- [系统策划案](Docs/GameDesign.md)
+- [完整系统策划案（Word）](Docs/《爆单骑手》系统策划案.docx)
+- [简版玩法方向](Docs/GameDesign.md)
 - [项目状态与验证记录](Docs/ProjectStatus.md)
 - [视觉样板与资产审计](Docs/VisualBenchmark.md)
 

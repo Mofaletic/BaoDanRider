@@ -100,6 +100,8 @@ Do not skip directly from greybox to full asset scattering.
 - Three development screenshots were copied into `Docs/Media` so the public README does not depend on ignored `Saved` output.
 - A repository `.gitignore` now excludes generated UE/IDE files, per-user content, and locally retained third-party/sample asset packs from public source commits.
 - The public GitHub README now documents the project from initial direction-setting through whitebox rollback, driving feedback, core-loop reconstruction, and art-stage decisions, including a reusable prompt-optimization template and concrete acceptance criteria.
+- `Docs/《爆单骑手》系统策划案.docx` now provides the repository's full design baseline: product pillars, workday/order state rules, exact prototype values, C++ module responsibilities, backpack and settlement formulas, progression, city/hazard content rules, UI priorities, production stage gates, acceptance cases, risks, and source references. Implemented, verified, in-progress, and planned content are explicitly separated.
+- The system-design DOCX passed structural QA for section setup, heading hierarchy, 46 fixed-width tables, 7 inline figures with alt text, fields, and accessibility. No gameplay code changed for this documentation milestone, so the previously passing editor build remains the applicable code baseline.
 
 ## Recovery Procedure
 
