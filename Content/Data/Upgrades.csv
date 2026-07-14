@@ -1,0 +1,6 @@
+Name,DisplayName,Type,BaseCost,CostStep,EffectPerLevel
+speed,车速部件,Speed,70,55,0.08
+stability,平衡车架,Stability,65,50,0.12
+cargo_capacity,保温箱容量,CargoCapacity,80,60,1.0
+insulation,保温内胆,Insulation,60,45,0.00035
+anti_spill,防洒绑带,AntiSpill,55,40,0.04

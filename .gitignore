@@ -1,0 +1,39 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+StagedBuilds/
+
+# IDE generated files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Local backups and logs
+Backup/
+UpgradeLog.htm
+*.log
+
+# Per-user Unreal content
+Content/Collections/
+Content/Developers/
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Third-party / sample content is kept locally but not redistributed
+Content/AnimeCitySuburbs/
+Content/Cartoon_City_Free/
+Content/Characters/
+Content/LevelPrototyping/
+Content/ThirdPerson/
+Content/__ExternalActors__/ThirdPerson/
+Content/__ExternalObjects__/ThirdPerson/
+Content/UE5风格化卡通城市街道建筑场景/

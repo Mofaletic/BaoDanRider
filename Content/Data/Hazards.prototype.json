@@ -1,0 +1,37 @@
+[
+  {
+    "id": "red_light_traffic",
+    "name": "红灯车流",
+    "balanceDamage": 20,
+    "speedPenalty": 0.2,
+    "cargoShake": 0.12
+  },
+  {
+    "id": "roadblock",
+    "name": "施工路障",
+    "balanceDamage": 16,
+    "speedPenalty": 0.32,
+    "cargoShake": 0.09
+  },
+  {
+    "id": "food_spill",
+    "name": "餐品洒出",
+    "balanceDamage": 10,
+    "speedPenalty": 0.18,
+    "cargoShake": 0.2
+  },
+  {
+    "id": "cleaner_chase",
+    "name": "清洁工追赶",
+    "balanceDamage": 12,
+    "speedPenalty": 0.16,
+    "cargoShake": 0.08
+  },
+  {
+    "id": "food_snatcher",
+    "name": "抢餐者",
+    "balanceDamage": 22,
+    "speedPenalty": 0.24,
+    "cargoShake": 0.16
+  }
+]

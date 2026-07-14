@@ -1,0 +1,4 @@
+Name,DisplayName,Size,bFragile,bSpillable,BaseTemperature,BaseStability
+fried_rice,炒饭,"(X=1,Y=1)",False,False,1.0,1.0
+milk_tea,奶茶,"(X=1,Y=2)",True,True,1.0,1.0
+soup_noodles,汤面,"(X=2,Y=1)",True,True,1.0,1.0

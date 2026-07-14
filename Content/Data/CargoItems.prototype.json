@@ -1,0 +1,23 @@
+[
+  {
+    "id": "fried_rice",
+    "name": "炒饭",
+    "size": [1, 1],
+    "fragile": false,
+    "spillable": false
+  },
+  {
+    "id": "milk_tea",
+    "name": "奶茶",
+    "size": [1, 2],
+    "fragile": true,
+    "spillable": true
+  },
+  {
+    "id": "soup_noodles",
+    "name": "汤面",
+    "size": [2, 1],
+    "fragile": true,
+    "spillable": true
+  }
+]

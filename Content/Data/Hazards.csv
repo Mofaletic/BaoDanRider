@@ -1,0 +1,6 @@
+Name,DisplayName,Type,BalanceDamage,SpeedPenalty,CargoShake
+red_light_traffic,红灯车流,RedLightTraffic,20.0,0.20,0.12
+roadblock,施工路障,Roadblock,16.0,0.32,0.09
+food_spill,餐品洒出,FoodSpill,10.0,0.18,0.20
+cleaner_chase,清洁工追赶,CleanerChase,12.0,0.16,0.08
+food_snatcher,抢餐者,FoodSnatcher,22.0,0.24,0.16
