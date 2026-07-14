@@ -99,6 +99,7 @@ Do not skip directly from greybox to full asset scattering.
 - A recruitment-oriented GitHub `README.md` now documents the playable loop, verified systems, production-stage decisions, and the human-directed AI prototype iteration method.
 - Three development screenshots were copied into `Docs/Media` so the public README does not depend on ignored `Saved` output.
 - A repository `.gitignore` now excludes generated UE/IDE files, per-user content, and locally retained third-party/sample asset packs from public source commits.
+- The public GitHub README now documents the project from initial direction-setting through whitebox rollback, driving feedback, core-loop reconstruction, and art-stage decisions, including a reusable prompt-optimization template and concrete acceptance criteria.
 
 ## Recovery Procedure
 
